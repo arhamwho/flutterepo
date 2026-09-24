@@ -29,7 +29,7 @@ Future<Map<String, dynamic>> fetchMockUser() async {
 
   return {
     'id': 101,
-    'name': 'Saif',
+    'name': 'arham khan',
     'email': null,
     'phone': '+91 9876543210',
   };

@@ -167,7 +167,7 @@ class _WelcomeBanner extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const Text('Good evening, Saif',
+                const Text('Good evening, arham khan',
                     style: TextStyle(color: Colors.white, fontSize: 24, fontWeight: FontWeight.w800)),
                 const SizedBox(height: 6),
                 Text('Flutter lab is next. 2 tasks are waiting.',
